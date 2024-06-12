@@ -52,11 +52,10 @@ contract MyToken {
 
 ## Help
 for any help and query drop an email on:
-[@Email here:](abhinesh2162@gmail.com)
+(abhinesh2162@gmail.com)
 
 
 ## Authors
 
-Contributors names and contact info
 Abhinesh Kumar  
 [@Linkedin](https://www.linkedin.com/in/kumarabhinesh/)
